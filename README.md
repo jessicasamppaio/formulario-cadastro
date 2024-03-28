@@ -8,6 +8,8 @@ Este é um projeto de formulário de cadastro com validação implementada, dese
 - Validação de nome de usuário
 - Validação de senha (comprimento mínimo de 8 caracteres)
 
+![Imagem demonstrativa do projeto](./imgs/img-formulario.png)
+
 ## Como Utilizar
 
 1. Clone este repositório para o seu ambiente local.
