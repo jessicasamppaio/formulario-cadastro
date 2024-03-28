@@ -12,11 +12,16 @@ Este é um projeto de formulário de cadastro com validação implementada, dese
 
 ## Como Utilizar
 
+- Acesse o deploy do projeto: https://jessicasamppaio.github.io/formulario-cadastro/
+
+- Ou siga os seguintes passos:
+
 1. Clone este repositório para o seu ambiente local.
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Preencha o formulário de cadastro.
 4. Observe a validação dos campos em tempo real.
 5. Submeta o formulário quando todos os campos estiverem preenchidos corretamente.
+
 
 ## Contribuição
 
